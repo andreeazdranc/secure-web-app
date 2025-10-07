@@ -15,6 +15,14 @@ Un proiect rapid cu Apache, PHP și MySQL/MariaDB: pagini de login/register, pro
 - MySQL sau MariaDB
 - Permisiuni pe folderul proiectului pentru Apache
 
+
+## Demo 
+
+![title](Images/img1.png)
+![title](Images/img2.png)
+![title](Images/img3.png)
+![title](Images/img4.png)
+
 ## Instalare
 
 1. Clonează repository-ul:
